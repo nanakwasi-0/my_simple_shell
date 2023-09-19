@@ -128,4 +128,12 @@ To compile and run the simple shell project, you can use the following steps:
    git clone https://github.com/nanakwasi-0/simple_shell
    cd simple_shell
    gcc -std=gnu89 -o myshell *.c && ./myshell
+## Usage
 
+Once the shell is running, you can use various built-in commands and execute other programs. Use the help command to display available commands and their descriptions.
+
+## Authors
+
+Nana Owusu
+
+Kelvin Carrington Tichana
