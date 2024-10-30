@@ -1,6 +1,6 @@
 # Simple Shell Project in C
 
-This is a simple shell project implemented in C for the ALX Software Engineering program. The project provides a basic shell environment with various built-in functions and utilities. The project is organized into multiple source code files, each containing specific functions and functionalities.
+This is a simple shell project implemented in C. The project provides a basic shell environment with various built-in functions and utilities. The project is organized into multiple source code files, each containing specific functions and functionalities.
 
 ## Table of Contents
 
